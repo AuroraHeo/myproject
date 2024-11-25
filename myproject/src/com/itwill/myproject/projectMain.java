@@ -6,6 +6,7 @@ public class projectMain {
 		System.out.println("Hello, Git!");
 		System.out.println("안녕하세요, 깃허브!");
 		System.out.println("이 줄은 깃허브에서 작성해봄...");
+		System.out.println("gkgk");
 	}
 
 }
