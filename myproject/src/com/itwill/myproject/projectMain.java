@@ -8,6 +8,7 @@ public class projectMain {
 		System.out.println("이 줄은 깃허브에서 작성해봄...");
 		System.out.println("gkgk");
 		System.out.println("르뀨");
+		System.out.println("르뀨2");
 	}
 
 }
